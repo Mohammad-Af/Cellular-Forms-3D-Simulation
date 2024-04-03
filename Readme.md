@@ -10,7 +10,6 @@ I included some example output videos that you can enjoy!
 
 ## Ray Tracer Compilation
 ```sh
-cd raytracer
 mkdir build
 cd build
 cmake ..
